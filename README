@@ -6,3 +6,14 @@ Used technologies:
 - HTML5
 - CSS3
 - SASS
+
+Purpose of files:
+
+- index.html 
+    Structure of the page
+
+- sass/
+    Directory with partial SCSS files
+
+    -sass/styles.scss 
+        Main scss file, it group together all parital scss files, this file is compiled to css/styles.css
